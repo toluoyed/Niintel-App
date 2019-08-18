@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993364104471",
+    "firebase_url": "https://hw34-e2ea7.firebaseio.com",
+    "project_id": "hw34-e2ea7",
+    "storage_bucket": "hw34-e2ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993364104471:android:b6b04bf2e80da160",
+        "android_client_info": {
+          "package_name": "com.example.android.projectnetintel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993364104471-ee0ilojbjohcgod72k49n6eb6qn4glsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oXIZxMqM3pY-FYBz_LSK3C-N6FlWfao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993364104471-ee0ilojbjohcgod72k49n6eb6qn4glsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
